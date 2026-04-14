@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/c0b3048e-fb46-4cde-9fed-3599f9c0ac5f
 
 https://github.com/user-attachments/assets/1aab1bed-c034-4cc7-9b68-5a0131a69c41
 
@@ -138,7 +137,7 @@ The system uses the **HC-06 Bluetooth module** for communication.
 
 ## 🏗️ Platform Design 
 
-👉 (conception.mp4)
+👉 https://github.com/user-attachments/assets/c0b3048e-fb46-4cde-9fed-3599f9c0ac5f
 
 
 ---
