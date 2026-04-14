@@ -1,8 +1,3 @@
-
-
-https://github.com/user-attachments/assets/1aab1bed-c034-4cc7-9b68-5a0131a69c41
-
-https://github.com/user-attachments/assets/700cd0d3-1263-466c-b59a-0fdd51a7d848
 # 🏠 Smart Home Environmental Monitoring System  
 ### IoT-Based Digital Twin (Simulation + Physical Prototype)
 
@@ -69,7 +64,7 @@ The system is composed of three main layers:
 - **Proteus** → Circuit simulation  
 - **Factory I/O** → Industrial system layout
 
-- Uploading Recording 2025-04-08 173220.mp4…
+- (https://github.com/user-attachments/assets/1aab1bed-c034-4cc7-9b68-5a0131a69c41)
 
 
 
@@ -137,7 +132,7 @@ The system uses the **HC-06 Bluetooth module** for communication.
 
 ## 🏗️ Platform Design 
 
-👉 https://github.com/user-attachments/assets/c0b3048e-fb46-4cde-9fed-3599f9c0ac5f
+👉 (https://github.com/user-attachments/assets/c0b3048e-fb46-4cde-9fed-3599f9c0ac5f)
 
 
 ---
