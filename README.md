@@ -1,3 +1,9 @@
+
+https://github.com/user-attachments/assets/c0b3048e-fb46-4cde-9fed-3599f9c0ac5f
+
+https://github.com/user-attachments/assets/1aab1bed-c034-4cc7-9b68-5a0131a69c41
+
+https://github.com/user-attachments/assets/700cd0d3-1263-466c-b59a-0fdd51a7d848
 # 🏠 Smart Home Environmental Monitoring System  
 ### IoT-Based Digital Twin (Simulation + Physical Prototype)
 
@@ -34,7 +40,9 @@ The system is composed of three main layers:
 - HC-06 Bluetooth module  
 - LCD (I2C interface)  
 - LEDs (status indicators)  
-- Buzzer (alarm system)  
+- Buzzer (alarm system)
+- <img width="1100" height="768" alt="image" src="https://github.com/user-attachments/assets/1d9970d3-95e1-41f4-8876-c74d1778e23c" />
+
 
 ---
 
@@ -53,13 +61,18 @@ The system is composed of three main layers:
 - Features:
   - Real-time data display  
   - Alerts for dangerous gas levels  
-  - Simple user interface  
+  - Simple user interface
+  - <img width="375" height="622" alt="Screenshot 2025-03-28 173821" src="https://github.com/user-attachments/assets/858ce5a5-addd-4884-8158-ef55f3c26a2d" />
 
 ---
 
 ### 🏭 Simulation Layer (Digital Twin)
 - **Proteus** → Circuit simulation  
-- **Factory I/O** → Industrial system layout  
+- **Factory I/O** → Industrial system layout
+
+- Uploading Recording 2025-04-08 173220.mp4…
+
+
 
 ---
 
@@ -92,4 +105,66 @@ The system operates in three states:
 
 The system uses the **HC-06 Bluetooth module** for communication.
 
-### 📡 Data Format Sent:
+---
+
+## ⚙️ Setup Guide
+
+### 🔌 Hardware Setup
+1. Connect DHT11 → Pin 7  
+2. Connect MQ-2 → A0  
+3. Connect HC-06 → Pins 2 (RX), 3 (TX)  
+4. Connect LCD via I2C (0x27)  
+5. Connect LEDs & buzzer  
+
+---
+
+### 💻 Firmware Setup
+1. Install Arduino IDE  
+2. Install libraries:
+   - DHT  
+   - LiquidCrystal_I2C  
+3. Upload `code_pfe.ino`  
+
+---
+
+### 📱 Mobile App Setup
+1. Install APK on Android  
+2. Enable Bluetooth  
+3. Connect to HC-06  
+4. Launch app
+
+
+---
+
+## 🏗️ Platform Design 
+
+👉 (conception.mp4)
+
+
+---
+
+## 🚀 Future Improvements
+- Replace Bluetooth with Wi-Fi (ESP32)  
+- Cloud integration (IoT platforms)  
+- Push notifications  
+- Data logging system  
+- AI-based anomaly detection  
+
+---
+
+## 🌍 Project Context
+This project was developed as part of my personal portfolio in Electrical Engineering, focusing on IoT systems, embedded programming, and smart industrial applications.
+
+---
+
+## 👤 Author
+**Amine Ouklilane**  
+Electrical Engineering Student  
+
+- Interested in IoT, Embedded Systems, and Smart Technologies  
+- Building projects for international academic and career opportunities  
+
+---
+
+## 💡 Portfolio Note
+This project demonstrates my ability to design and implement **end-to-end IoT systems**, combining hardware, software, and simulation tools to solve real-world problems.
